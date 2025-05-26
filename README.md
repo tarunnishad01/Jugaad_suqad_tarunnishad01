@@ -1,10 +1,10 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b> Electronics and Communication Engineering (ECE)
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Digital System Design 
+<b> Experiment|     <b> Implimentation of given boolean function using logic gate in the both SOP and POS forms (first Experiment)
 
 ### About the Experiment 
 
